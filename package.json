@@ -3,10 +3,10 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://juneaucross.github.io/super-deri/",
+  "homepage": "https://deriedit.pro",
   "repository": {
     "type": "git",
-    "url": "https://github.com/juneaucross/super-deri.git"
+    "url": "https://github.com/mishamine/derieditpro.git"
   },
   "scripts": {
     "dev": "vite",
